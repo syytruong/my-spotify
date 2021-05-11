@@ -9,4 +9,11 @@
 - Lyrics Finder API
 # Snapshot:
 - Login page
-![alt text](https://github.com/syytruong/my-spotify/images/login.png?raw=true)
+![alt text]images/login.png)
+
+- Search for songs:
+![alt text]images/search_songs.png)
+
+- Playing songs:
+
+![alt text]images/playing_song.png)

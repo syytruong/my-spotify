@@ -9,11 +9,11 @@
 - Lyrics Finder API
 # Snapshot:
 - Login page
-![alt text]images/login.png)
+![alt text](images/login.png)
 
 - Search for songs:
-![alt text]images/search_songs.png)
+![alt text](images/search_songs.png)
 
 - Playing songs:
 
-![alt text]images/playing_song.png)
+![alt text](images/playing_song.png)
